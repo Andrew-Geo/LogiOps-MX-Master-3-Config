@@ -15,10 +15,10 @@ https://gist.github.com/danish17/c5c5fb6eb99d452c339e393ed637640b
 Place the file in /etc/  
 The path to the file should be: /etc/logid.cfg  
 
-![logid cfg_image](https://github.com/Andrew-Geo/LogiOps-MX-Master-3-Config/assets/94297792/ad269452-328a-4098-96f2-fc5893606b29)  
-
 
 **Features Overview**  
+![logid cfg_image](https://github.com/Andrew-Geo/LogiOps-MX-Master-3-Config/assets/94297792/ad269452-328a-4098-96f2-fc5893606b29)  
+
 Forward Button:  
 --Tap: Forward  
 --Drag Upwards: Right Bracket (once per 25 pixels of dragging)  
