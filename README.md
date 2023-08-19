@@ -15,26 +15,29 @@ https://gist.github.com/danish17/c5c5fb6eb99d452c339e393ed637640b
 Place the file in /etc/  
 The path to the file should be: /etc/logid.cfg  
 
+![logid cfg_image](https://github.com/Andrew-Geo/LogiOps-MX-Master-3-Config/assets/94297792/ad269452-328a-4098-96f2-fc5893606b29)  
+
+
 **Features Overview**  
--Forward Button:  
+Forward Button:  
 --Tap: Forward  
 --Drag Upwards: Right Bracket (once per 25 pixels of dragging)  
 --Drag Downwards: Left Bracket (once per 25 pixels of dragging)  
 --Drag Rightwards: End  
 --Drag Leftwards: Home  
--Back Button:  
+Back Button:  
 --Tap: Back  
 --Drag Upwards: NUM8 (once per 50 pixels of dragging)  
 --Drag Downwards: NUM2 (once per 50 pixels of dragging)  
 --Drag Rightwards: NUM6 (once per 50 pixels of dragging)  
 --Drag Leftwards: NUM4 (once per 50 pixels of dragging)  
--Gesture Button:  
+Gesture Button:  
 --Tap: Toggles Media Playback  
 --Drag Upwards: Volume Up (one step per 50 pixels of dragging)  
 --Drag Downwards: Volume Down (once per 50 pixels of dragging)  
 --Drag Rightwards: Next Media in queue  
 --Drag Leftwards: Previous Media in queue  
--Top Button:  
+Top Button:  
 --Tap: Toggles SmartShift  
 --Drag Upwards: Raises DPI by 800  
 --Drag Downwards: Lowers DPI by 800  
